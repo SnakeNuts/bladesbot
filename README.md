@@ -1,2 +1,2 @@
 # bladesbot
-Deiscord bot for my Blades in the Dark Discord
+Discord bot for my Blades in the Dark Discord
